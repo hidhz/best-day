@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#header{
+    background-color: #111828;
+}
+@font-face {
+    font-family: "japan";
+    src: url(../assets/fonts/ToJapan.woff2);
+}
+.font-japan{
+    font-family: 'japan';
+}
