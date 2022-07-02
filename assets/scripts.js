@@ -4,7 +4,7 @@ async function klik() {
        text: 'Selamat Ulang Tahun Mbak Mifta, Jangan lupa traktirannya ya haha',
        imageUrl: 'https://feeldreams.github.io/gumush.gif',
     })
-    return location.href = "https://hidhz.github.io/about/"
+    return location.href = "https://tentanfmj.netlify.app/"
 }
 AOS.init();
 
